@@ -5,9 +5,9 @@
 
 ![GitHub logo](github.png)
 
--[x] Install Git and Python
--[x] Learn Gut and GitHub
--[ ] C++ coding
+- [x] Install Git and Python
+- [x] Learn Gut and GitHub
+- [ ] C++ coding
 
 
 
